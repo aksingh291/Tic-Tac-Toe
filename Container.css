@@ -1,0 +1,22 @@
+.container{
+    background-color: white;
+    border: none;
+    border-radius:8%;
+    box-shadow: 0px 0px 8px #cc4646;
+    width: 5rem;
+    height:5rem;
+    text-align: center;
+    font-size: 5em;
+    font-weight: bold;
+    line-height: 3rem;
+    margin: 0.5rem;
+}
+.x{
+    color:rgb(15, 47, 204)
+}
+.o{
+    color: rgb(55, 135, 76);
+}
+.container:hover{
+    box-shadow: 0 0 15px #cc4646;
+}

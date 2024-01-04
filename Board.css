@@ -1,0 +1,19 @@
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 6rem);
+    place-items: center;
+    justify-content: center;
+}
+
+.boardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boardWrapper {
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+}
